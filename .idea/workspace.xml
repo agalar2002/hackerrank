@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5981e3eb-82fa-45e9-bbb0-6ecaa85d4b82" name="Default Changelist" comment="add my fifth solution">
+    <list default="true" id="5981e3eb-82fa-45e9-bbb0-6ecaa85d4b82" name="Default Changelist" comment="add new things">
+      <change afterPath="$PROJECT_DIR$/python/print-function/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +86,28 @@
       <option name="project" value="LOCAL" />
       <updated>1610627369585</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="refresh my third solution">
+      <created>1610627485849</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1610627485849</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add new things">
+      <created>1610627581656</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1610627581656</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add new things">
+      <created>1610627606918</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1610627606918</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,6 +128,8 @@
     <MESSAGE value="add my third solution" />
     <MESSAGE value="add my fourth solution" />
     <MESSAGE value="add my fifth solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="add my fifth solution" />
+    <MESSAGE value="refresh my third solution" />
+    <MESSAGE value="add new things" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new things" />
   </component>
 </project>
