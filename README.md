@@ -13,3 +13,4 @@ My HackerRank profile (https://www.hackerrank.com/agalar_teymurov1)
 |  #  |      Title     |   Solutions   | Difficulty  | Tag                   
 |-----|----------------|---------------|-------------|-------------
 |1|[If Else](https://www.hackerrank.com/challenges/py-if-else)|[Solution](python/if-else/solution.py) |Easy|Introduction|
+|2|[Arithmetic Operators](https://www.hackerrank.com/challenges/python-division)|[Solution](python//solution.py) |Easy|Introduction|
