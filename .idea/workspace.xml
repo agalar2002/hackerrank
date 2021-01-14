@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5981e3eb-82fa-45e9-bbb0-6ecaa85d4b82" name="Default Changelist" comment="add my third solution" />
+    <list default="true" id="5981e3eb-82fa-45e9-bbb0-6ecaa85d4b82" name="Default Changelist" comment="add my fourth solution">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610623605154</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add my fourth solution">
+      <created>1610625657876</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1610625657876</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,6 +96,7 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="add to my second solution" />
     <MESSAGE value="add my third solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="add my third solution" />
+    <MESSAGE value="add my fourth solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="add my fourth solution" />
   </component>
 </project>
